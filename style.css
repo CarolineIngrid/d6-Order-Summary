@@ -1,0 +1,23 @@
+/* ----------reset------------- */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: hsl(225, 100%, 94%);
+}
+
+.base-order{
+    display: flex;
+
+    background-color: #fff;
+    height: 500px;
+    width: 350px;
+    border-radius: 5%;
+}
